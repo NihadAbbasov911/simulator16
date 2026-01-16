@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ticket4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60a8b9da7c4753a4e128d721089497327c7bb66c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ticket4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ticket4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
